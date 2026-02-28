@@ -2,28 +2,31 @@
   <img src="./img.png" alt="Project Banner" width="100%">
 </p>
 
-# [passward generator app] 🎯
+# BoldBloom 🎯] 🎯
 
 ## Basic Details
 
-### Team Name: [club clash]
+### Team Name: [Aura Dot - Com..💫]
 
 ### Team Members
-- Member 1: [Lakshmi.k] - [AISAT]
-- Member 2: [Adhiti Menon] - [AISAT]
+- Member 1: Ann Tresa Jose – Albertian Institute of Science and technology
+- Member 2: Aljeena Paul –  Albertian Institute of Science and technology
+
 
 ### Hosted Project Link
 [mention your project hosted link here]
 
 ### Project Description
-[A password generator app is a tool that automatically creates strong, random passwords to help protect user accounts from unauthorized access. It allows users to customize password length and include options like uppercase letters, numbers, and special characters. By using complex combinations, the app improves online security and reduces the risk of hacking.]
+BoldBloom is a web-based self-improvement application that helps students boost confidence, develop daily habits, and track personal growth through structured exercises and reminders.]
 
 ### The Problem statement
-[Many people use weak passwords that are easy for hackers to guess.
-Users find it hard to create strong and secure passwords on their own.]
+[Many students struggle with:
+Low self-confidence
+Inconsistent daily habits
+Lack of structured tracking for personal growth]
 
 ### The Solution
-[A password generator app creates strong, random passwords automatically, helping users avoid weak and easily guessed passwords. It also encourages the use of unique passwords for different accounts, improving overall online security.]
+BoldBloom provides an interactive platform for daily confidence training, habit tracking, progress visualization, and motivational reminders.]
 
 ---
 
@@ -33,9 +36,14 @@ Users find it hard to create strong and secure passwords on their own.]
 
 **For Software:**
 - Languages used: [e.g., JavaScript, Python, Java]
-- Frameworks used: [e.g., React, Django, Spring Boot]
+- Frameworks used: [React.js]
 - Libraries used: [e.g., axios, pandas, JUnit]
-- Tools used: [e.g., VS Code, Git, Docker]
+- Tools used: [VS Code, Git]
+
+- Frontend: React.js (Web)
+Backend: Node.js (Under Development)
+Notifications: Web Push Notifications
+Version Control: GitHub
 
 **For Hardware:**
 - Main components: [List main components]
@@ -84,13 +92,15 @@ List the key features of your project:
 
 #### Screenshots (Add at least 3)
 
-![![Screenshot_28-2-2026_19037_opulent-chainsaw-v64xgx4v54w5cwjjg github dev](https://github.com/user-attachments/assets/8aca52a0-1eaa-4a86-9031-364df27120ca)
-](Add screenshot 1 here with proper name)
-*Add caption explaining what this shows*
+<img width="403" height="873" alt="1" src="https://github.com/user-attachments/assets/95d845bb-f6bd-45f0-809e-d7dd87ca1bb1" />
 
-![![Screenshot_28-2-2026_19056_opulent-chainsaw-v64xgx4v54w5cwjjg github dev](https://github.com/user-attachments/assets/f15b569a-ce19-4aaa-b814-55233a6a98bd)
-](Add screenshot 2 here with proper name)
-*Add caption explaining what this shows*
+<img width="398" height="867" alt="2" src="https://github.com/user-attachments/assets/58b711d0-4ec5-4137-af7e-3da9676abd95" />
+
+<img width="397" height="864" alt="3" src="https://github.com/user-attachments/assets/a640ef90-bd03-420a-9102-798604c6fa32" />
+
+<img width="400" height="865" alt="4" src="https://github.com/user-attachments/assets/8d82c722-ebe5-4600-9cb7-cfb009dff207" />
+
+<img width="406" height="866" alt="5" src="https://github.com/user-attachments/assets/a43746f4-a489-4cd9-9cc4-20595eefd07c" />
 
 ![Screenshot3](Add screenshot 3 here with proper name)
 *Add caption explaining what this shows*
