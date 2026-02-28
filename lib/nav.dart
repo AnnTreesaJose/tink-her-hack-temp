@@ -29,14 +29,18 @@ class _MainNavState extends State<MainNav> {
       body: screens[index],
       bottomNavigationBar: BottomNavigationBar(
         currentIndex: index,
-        selectedItemColor: Colors.teal,
-        onTap: (i)=>setState(()=>index=i),
+        selectedItemColor: const Color.fromARGB(255, 22, 30, 61),
+        onTap: (i) => setState(() => index = i),
         items: const [
-          BottomNavigationBarItem(icon: Icon(Icons.fitness_center), label:"Training"),
-          BottomNavigationBarItem(icon: Icon(Icons.dashboard), label:"Dashboard"),
-          BottomNavigationBarItem(icon: Icon(Icons.calendar_month), label:"Reminders"),
-          BottomNavigationBarItem(icon: Icon(Icons.person), label:"Profile"),
-          BottomNavigationBarItem(icon: Icon(Icons.settings), label:"Settings"),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.fitness_center), label: "Training"),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.dashboard), label: "Dashboard"),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.calendar_month), label: "Reminders"),
+          BottomNavigationBarItem(icon: Icon(Icons.person), label: "Profile"),
+          BottomNavigationBarItem(
+              icon: Icon(Icons.settings), label: "Settings"),
         ],
       ),
     );
